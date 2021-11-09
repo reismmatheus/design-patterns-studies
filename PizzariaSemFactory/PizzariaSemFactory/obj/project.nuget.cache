@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HhzClweg5/TVTUu1L4s1Mh8vYgGAML+D96njpNQvUDMgS3zn59T9aYXzBh7E1WcPs0n9yXfirhJGcJ1HWewKOw==",
+  "dgSpecHash": "wsPj46wPQ90yJbnj1tVgQUF5t7oD6H9+7ErKRmYaTu5WEnbUQDKolT7hd5Fb9AEgqkT15kXzjDrX3Kl3fpES4g==",
   "success": true,
-  "projectFilePath": "C:\\www\\desing-patters\\PizzariaSemFactory\\PizzariaSemFactory\\PizzariaSemFactory.csproj",
+  "projectFilePath": "C:\\www\\desing-patterns-studies\\PizzariaSemFactory\\PizzariaSemFactory\\PizzariaSemFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\www\\desing-patterns-studies\\PizzariaSemFactory\\PizzaSimpleFactory\\PizzaSimpleFactory.csproj",
-      "projectName": "PizzaSimpleFactory",
-      "projectPath": "C:\\www\\desing-patterns-studies\\PizzariaSemFactory\\PizzaSimpleFactory\\PizzaSimpleFactory.csproj",
+      "projectUniqueName": "C:\\www\\desing-patterns-studies\\FactoryMethod\\FactoryMethod.csproj",
+      "projectName": "FactoryMethod",
+      "projectPath": "C:\\www\\desing-patterns-studies\\FactoryMethod\\FactoryMethod.csproj",
       "packagesPath": "C:\\Users\\reism\\.nuget\\packages\\",
-      "outputPath": "C:\\www\\desing-patterns-studies\\PizzariaSemFactory\\PizzaSimpleFactory\\obj\\",
+      "outputPath": "C:\\www\\desing-patterns-studies\\FactoryMethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\reism\\AppData\\Roaming\\NuGet\\NuGet.Config",

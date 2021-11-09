@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\www\\desing-patters\\PizzariaSemFactory\\PizzariaSemFactory\\PizzariaSemFactory.csproj": {}
+    "C:\\www\\desing-patterns-studies\\PizzariaSemFactory\\PizzariaSemFactory\\PizzariaSemFactory.csproj": {}
   },
   "projects": {
-    "C:\\www\\desing-patters\\PizzariaSemFactory\\PizzariaSemFactory\\PizzariaSemFactory.csproj": {
+    "C:\\www\\desing-patterns-studies\\PizzariaSemFactory\\PizzariaSemFactory\\PizzariaSemFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\www\\desing-patters\\PizzariaSemFactory\\PizzariaSemFactory\\PizzariaSemFactory.csproj",
+        "projectUniqueName": "C:\\www\\desing-patterns-studies\\PizzariaSemFactory\\PizzariaSemFactory\\PizzariaSemFactory.csproj",
         "projectName": "PizzariaSemFactory",
-        "projectPath": "C:\\www\\desing-patters\\PizzariaSemFactory\\PizzariaSemFactory\\PizzariaSemFactory.csproj",
+        "projectPath": "C:\\www\\desing-patterns-studies\\PizzariaSemFactory\\PizzariaSemFactory\\PizzariaSemFactory.csproj",
         "packagesPath": "C:\\Users\\reism\\.nuget\\packages\\",
-        "outputPath": "C:\\www\\desing-patters\\PizzariaSemFactory\\PizzariaSemFactory\\obj\\",
+        "outputPath": "C:\\www\\desing-patterns-studies\\PizzariaSemFactory\\PizzariaSemFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reism\\AppData\\Roaming\\NuGet\\NuGet.Config",
