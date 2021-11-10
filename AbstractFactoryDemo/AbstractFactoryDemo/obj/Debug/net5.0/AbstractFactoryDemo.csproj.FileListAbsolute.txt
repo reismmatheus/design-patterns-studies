@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\AbstractFactoryDemo.exe
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\AbstractFactoryDemo.deps.json
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\AbstractFactoryDemo.runtimeconfig.json
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\AbstractFactoryDemo.runtimeconfig.dev.json
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\AbstractFactoryDemo.dll
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\ref\AbstractFactoryDemo.dll
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\AbstractFactoryDemo.pdb
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.csproj.AssemblyReference.cache
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.AssemblyInfo.cs
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.dll
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\ref\AbstractFactoryDemo.dll
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.pdb
+D:\_serie_design_patterns\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.genruntimeconfig.cache
