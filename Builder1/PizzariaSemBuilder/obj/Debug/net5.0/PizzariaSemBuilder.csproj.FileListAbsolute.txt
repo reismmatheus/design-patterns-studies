@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\bin\Debug\net5.0\PizzariaSemBuilder.exe
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\bin\Debug\net5.0\PizzariaSemBuilder.deps.json
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\bin\Debug\net5.0\PizzariaSemBuilder.runtimeconfig.json
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\bin\Debug\net5.0\PizzariaSemBuilder.runtimeconfig.dev.json
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\bin\Debug\net5.0\PizzariaSemBuilder.dll
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\bin\Debug\net5.0\ref\PizzariaSemBuilder.dll
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\bin\Debug\net5.0\PizzariaSemBuilder.pdb
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\obj\Debug\net5.0\PizzariaSemBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\obj\Debug\net5.0\PizzariaSemBuilder.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\obj\Debug\net5.0\PizzariaSemBuilder.AssemblyInfo.cs
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\obj\Debug\net5.0\PizzariaSemBuilder.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\obj\Debug\net5.0\PizzariaSemBuilder.dll
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\obj\Debug\net5.0\ref\PizzariaSemBuilder.dll
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\obj\Debug\net5.0\PizzariaSemBuilder.pdb
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\obj\Debug\net5.0\PizzariaSemBuilder.genruntimeconfig.cache
+D:\_serie_design_patterns\Builder1\PizzariaSemBuilder\obj\Debug\net5.0\PizzariaSemBuilder.csproj.AssemblyReference.cache

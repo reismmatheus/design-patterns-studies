@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Builder1.Product.Pizza">
+    <Position X="6.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAACAAGEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product\Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder1.ConcreteBuilder.PizzaCalabreza">
+    <Position X="5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteBuilder\PizzaCalabreza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder1.Builder.PizzaBuilder">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAIABAAAAAAAAAABAAAAAQA=</HashCode>
+      <FileName>Builder\PizzaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder1.ConcreteBuilder.PizzaMussarela">
+    <Position X="2.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteBuilder\PizzaMussarela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder1.Director.Pizzaria">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAIAAAAAAAAAAAQA=</HashCode>
+      <FileName>Director\Pizzaria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Builder1.Product.Tamanho" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Product\Tamanho.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Builder1.Product.TipoMassa" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAEAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product\TipoMassa.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Builder1.Product.TipoBorda" Collapsed="true">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Product\TipoBorda.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

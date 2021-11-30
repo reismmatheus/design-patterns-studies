@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\Builder1\Builder1\obj\Debug\net5.0\Builder1.csproj.AssemblyReference.cache
+D:\_serie_design_patterns\Builder1\Builder1\obj\Debug\net5.0\Builder1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\Builder1\Builder1\obj\Debug\net5.0\Builder1.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\Builder1\Builder1\obj\Debug\net5.0\Builder1.AssemblyInfo.cs
+D:\_serie_design_patterns\Builder1\Builder1\obj\Debug\net5.0\Builder1.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\Builder1\Builder1\bin\Debug\net5.0\Builder1.exe
+D:\_serie_design_patterns\Builder1\Builder1\bin\Debug\net5.0\Builder1.deps.json
+D:\_serie_design_patterns\Builder1\Builder1\bin\Debug\net5.0\Builder1.runtimeconfig.json
+D:\_serie_design_patterns\Builder1\Builder1\bin\Debug\net5.0\Builder1.runtimeconfig.dev.json
+D:\_serie_design_patterns\Builder1\Builder1\bin\Debug\net5.0\Builder1.dll
+D:\_serie_design_patterns\Builder1\Builder1\bin\Debug\net5.0\ref\Builder1.dll
+D:\_serie_design_patterns\Builder1\Builder1\bin\Debug\net5.0\Builder1.pdb
+D:\_serie_design_patterns\Builder1\Builder1\obj\Debug\net5.0\Builder1.dll
+D:\_serie_design_patterns\Builder1\Builder1\obj\Debug\net5.0\ref\Builder1.dll
+D:\_serie_design_patterns\Builder1\Builder1\obj\Debug\net5.0\Builder1.pdb
+D:\_serie_design_patterns\Builder1\Builder1\obj\Debug\net5.0\Builder1.genruntimeconfig.cache
