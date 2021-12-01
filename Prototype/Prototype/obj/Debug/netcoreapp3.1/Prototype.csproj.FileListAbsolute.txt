@@ -1,0 +1,13 @@
+C:\www\desing-patterns-studies\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\www\desing-patterns-studies\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\www\desing-patterns-studies\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\www\desing-patterns-studies\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\www\desing-patterns-studies\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\www\desing-patterns-studies\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\www\desing-patterns-studies\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\www\desing-patterns-studies\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\www\desing-patterns-studies\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\www\desing-patterns-studies\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\www\desing-patterns-studies\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\www\desing-patterns-studies\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\www\desing-patterns-studies\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
