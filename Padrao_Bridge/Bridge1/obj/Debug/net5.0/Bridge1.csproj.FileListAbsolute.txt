@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\bin\Debug\net5.0\Bridge1.exe
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\bin\Debug\net5.0\Bridge1.deps.json
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\bin\Debug\net5.0\Bridge1.runtimeconfig.json
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\bin\Debug\net5.0\Bridge1.runtimeconfig.dev.json
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\bin\Debug\net5.0\Bridge1.dll
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\bin\Debug\net5.0\ref\Bridge1.dll
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\bin\Debug\net5.0\Bridge1.pdb
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\obj\Debug\net5.0\Bridge1.csproj.AssemblyReference.cache
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\obj\Debug\net5.0\Bridge1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\obj\Debug\net5.0\Bridge1.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\obj\Debug\net5.0\Bridge1.AssemblyInfo.cs
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\obj\Debug\net5.0\Bridge1.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\obj\Debug\net5.0\Bridge1.dll
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\obj\Debug\net5.0\ref\Bridge1.dll
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\obj\Debug\net5.0\Bridge1.pdb
+D:\_serie_design_patterns\__Estruturais\3_Bridge\Padrao_Bridge\Bridge1\obj\Debug\net5.0\Bridge1.genruntimeconfig.cache
