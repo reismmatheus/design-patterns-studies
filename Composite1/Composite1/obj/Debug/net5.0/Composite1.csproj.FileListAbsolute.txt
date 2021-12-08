@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\bin\Debug\net5.0\Composite1.exe
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\bin\Debug\net5.0\Composite1.deps.json
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\bin\Debug\net5.0\Composite1.runtimeconfig.json
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\bin\Debug\net5.0\Composite1.runtimeconfig.dev.json
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\bin\Debug\net5.0\Composite1.dll
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\bin\Debug\net5.0\ref\Composite1.dll
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\bin\Debug\net5.0\Composite1.pdb
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\obj\Debug\net5.0\Composite1.csproj.AssemblyReference.cache
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\obj\Debug\net5.0\Composite1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\obj\Debug\net5.0\Composite1.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\obj\Debug\net5.0\Composite1.AssemblyInfo.cs
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\obj\Debug\net5.0\Composite1.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\obj\Debug\net5.0\Composite1.dll
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\obj\Debug\net5.0\ref\Composite1.dll
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\obj\Debug\net5.0\Composite1.pdb
+D:\_serie_design_patterns\__Estruturais\6_Composite\Composite1\Composite1\obj\Debug\net5.0\Composite1.genruntimeconfig.cache
