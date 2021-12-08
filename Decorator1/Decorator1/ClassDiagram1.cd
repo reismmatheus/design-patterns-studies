@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Decorator1.ConcreteComponent.Pizza">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAIAAAA=</HashCode>
+      <FileName>ConcreteComponent\Pizza.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Decorator1.Decorator.PizzaDecorator">
+    <Position X="5.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkAAIAAAA=</HashCode>
+      <FileName>Decorator\PizzaDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Decorator1.ConcreteDecorator.BaconDecorator">
+    <Position X="4.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAIAAAA=</HashCode>
+      <FileName>ConcreteDecorator\BaconDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator1.ConcreteDecorator.BordaRecheadaDecorator">
+    <Position X="7.25" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAIAAAA=</HashCode>
+      <FileName>ConcreteDecorator\BordaRecheadaDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator1.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator1.ConcreteDecorator.MassaEspecialDecorator">
+    <Position X="2" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAIAAAA=</HashCode>
+      <FileName>ConcreteDecorator\MassaEspecialDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Decorator1.Component.IPizza">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAIAAAA=</HashCode>
+      <FileName>Component\IPizza.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
