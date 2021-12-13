@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Facade1.Subsistemas.Cadastro">
+    <Position X="2.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subsistemas\Cadastro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade1.Subsistemas.Cadin">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subsistemas\Cadin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade1.Subsistemas.Cliente">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Subsistemas\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade1.Subsistemas.LimiteCredito">
+    <Position X="6.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subsistemas\LimiteCredito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade1.Subsistemas.Serasa">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subsistemas\Serasa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade1.Facade.MeuFacade">
+    <Position X="5.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAgAAAQAEAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Facade\MeuFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade1.Program">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
