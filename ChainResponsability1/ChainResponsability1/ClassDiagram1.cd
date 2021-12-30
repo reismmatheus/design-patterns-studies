@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChainResponsability1.Autorizador">
+    <Position X="4.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAACAAAgAAAAA=</HashCode>
+      <FileName>Autorizador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainResponsability1.GerenteProjeto">
+    <Position X="2.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAIAAAAACAAAAAAAAA=</HashCode>
+      <FileName>GerenteProjeto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainResponsability1.SupervisorEquipe">
+    <Position X="4.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAIAAAAACAAAAAAAAA=</HashCode>
+      <FileName>SupervisorEquipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainResponsability1.SetorRH">
+    <Position X="7" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAIAAAAACAAAAAAAAA=</HashCode>
+      <FileName>SetorRH.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainResponsability1.Program">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

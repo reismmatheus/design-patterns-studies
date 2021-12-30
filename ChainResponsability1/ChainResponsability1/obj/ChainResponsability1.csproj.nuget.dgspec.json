@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\www\\design-patterns-studies\\ChainResponsability1\\ChainResponsability1\\ChainResponsability1.csproj": {}
+  },
+  "projects": {
+    "C:\\www\\design-patterns-studies\\ChainResponsability1\\ChainResponsability1\\ChainResponsability1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\www\\design-patterns-studies\\ChainResponsability1\\ChainResponsability1\\ChainResponsability1.csproj",
+        "projectName": "ChainResponsability1",
+        "projectPath": "C:\\www\\design-patterns-studies\\ChainResponsability1\\ChainResponsability1\\ChainResponsability1.csproj",
+        "packagesPath": "C:\\Users\\matheus\\.nuget\\packages\\",
+        "outputPath": "C:\\www\\design-patterns-studies\\ChainResponsability1\\ChainResponsability1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://blinksplatform.pkgs.visualstudio.com/c76142a3-072b-4a63-b57c-fa2462895899/_packaging/Blinks.Nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
