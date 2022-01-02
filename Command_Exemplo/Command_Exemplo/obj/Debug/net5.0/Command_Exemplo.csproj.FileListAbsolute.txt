@@ -1,0 +1,16 @@
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\bin\Debug\net5.0\Command_Exemplo.exe
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\bin\Debug\net5.0\Command_Exemplo.deps.json
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\bin\Debug\net5.0\Command_Exemplo.runtimeconfig.json
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\bin\Debug\net5.0\Command_Exemplo.runtimeconfig.dev.json
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\bin\Debug\net5.0\Command_Exemplo.dll
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\bin\Debug\net5.0\ref\Command_Exemplo.dll
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\bin\Debug\net5.0\Command_Exemplo.pdb
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\obj\Debug\net5.0\Command_Exemplo.csprojAssemblyReference.cache
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\obj\Debug\net5.0\Command_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\obj\Debug\net5.0\Command_Exemplo.AssemblyInfoInputs.cache
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\obj\Debug\net5.0\Command_Exemplo.AssemblyInfo.cs
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\obj\Debug\net5.0\Command_Exemplo.csproj.CoreCompileInputs.cache
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\obj\Debug\net5.0\Command_Exemplo.dll
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\obj\Debug\net5.0\ref\Command_Exemplo.dll
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\obj\Debug\net5.0\Command_Exemplo.pdb
+C:\www\desing-patterns-studies\Command_Exemplo\Command_Exemplo\obj\Debug\net5.0\Command_Exemplo.genruntimeconfig.cache
