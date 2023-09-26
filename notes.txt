@@ -1,0 +1,302 @@
+Presentation
+
+-> Padrões de Criação
+	Factory Method
+	Abstract Method
+	Builder
+	Prototype
+	Single
+
+-> Padrões Estruturais
+	Adapter
+	Brigde
+	Composite
+	Decorator
+	Facade
+	Flyweight
+	Proxy
+	
+-> Padrões Comportamentais
+	Chain of Resposability
+	Command
+	Iterator
+	Mediator
+	Memento
+	Observer
+	State
+	Strategy
+	Interpreter
+	Template Method
+	Visitor
+
+Design Patters
+	Ceational
+	Structural
+	Behavioral
+
+Programar para uma interface e não para uma implementação
+Favorecer a composição sobre a herança
+Usar os principios SOLID
+Evitar o forte acoplamento entre classes
+Manter uma alta coesao entre as classes
+
+--
+
+Single Reposibilities
+
+-- // --
+
+Padrões Criacionais I
+
+	Factory
+		Simple Factory*
+		Factory Method
+		Abstract Factory
+		
+		
+-- // --
+
+Factory Method
+
+-- // --
+
+Abstract Factory
+
+--
+
+Builder
+
+Separar a constução do objeto das suas representações
+Separar o código que cria e o código que usa o objeto
+
+--
+
+Prototype
+
+Copiar um objeto existente ao inves de instanciar um novo
+	
+	Shallow Copy (Superficial)
+	Deep Copy (Profunda)
+	
+Usado em jogar normalmente 
+
+--
+
+Singleton
+
+Controlar a concorrencia de acesso a recursos compartilhados
+	banco dados, arquivos 
+	
+--
+
+A ponte (Bridge) adaptada (Adapter) é composta (Composite) de decorações (Decorator) na fachada (Facade) para o peso mosca (Flyweight) se aproximar (Proxy)
+
+--
+
+Adapter
+	Object Adapter -> Mais popular 
+	Class Adapter -> (Herança Multipla)
+
+Ponte entre duas interfaces incopativeis
+
+Converter uma interface em outra
+
+Introduzir um componente legado em um novo sistema
+
+Exemplo: XML -> JSON
+Exemplo: 
+var alunosArray = new string[5, 4]
+{
+	{"101","Maria","Artes","1000"},
+	{"102","Pedro","Engenharia","2000"},
+	{"103","Bianca","Veterinária","3000"},
+	{"104","Pamela","Moda","900"},
+	{"105","Sergio","Desenho","850"}
+};
+
+public void CalculaMensalidade(List<Aluno> listaAlunos)
+{
+	foreach (Aluno aluno in listaAlunos)
+	{	
+		//Usa uma lógica para calcular a mensalidade
+		Console.WriteLine($"Aluno {aluno.Nome} " +
+			$"- Valor da mensalidade R$ {aluno.Mensalidade}");
+	}
+}
+
+Precisa implementar um padrão Adapter para permiter que eles se comuniquem
+
+Wrapper
+
+--
+
+Bridge
+
+Separa a interface do objeto da sua implementação
+Separa a abstação da implementação
+
+reduz a duplicidade de código
+
+"Interface"
+
+--
+
+Composite
+
+like a "arvore"
+
+Algo que é feito de varias partes ou elemento
+
+component
+leaf -> folha
+composite
+
+						Computador
+						/		\
+					Gabinete	Perifericos
+					/	\				/ \
+		Disco Rigido	Placa Mãe	Mouse  Teclado
+						/	\
+					   CPU	RAM
+					   
+--
+
+Decorator
+
+-> decorar
+
+permite estender/decorar de forma dinamica as caracteristicas(propriedades e comportamentos) de uma classe qualquer
+
+herança x composição
+
+herança é estatica
+subclasses somentes podem ter uma classe pai (no caso da herança)
+
+principio do aberto fechado
+	aberto para extensao e fechado para modificação
+	
+Facade
+
+uma api ou um sdk meio que usa o padrao facade
+
+pensar ele como um tipo de business, classe de negocio
+
+esconder a complexidade do sistema, expondo apenas a interface que o cliente precisa enxergar
+
+quando usar
+	quando queremos fornecer uma interface unica e uniforme para diversas funcionalidades de um subsistema
+	
+-- 
+
+Flyweight
+
+permite que os programas suportem grandes quantidades de objetos, mantendo baixo o consumo de memória
+
+dois estados/partes
+	intrinseco -> constante, armazenado na memoria
+	extrinseco -> nao constante, precisa ser calculado em tempo de execução
+	
+compartilham o estado intrinseco
+
+talvez o singleton seja um flyweight?
+
+--
+
+Proxy
+
+oculta a complexidade do objeto principal
+
+intermediario
+
+exemplo:
+	quando é passado o cartao como pagamento da conta
+	navegação web
+	
+controlar e gerenciar um objeto
+
+tipos
+	proxy virtual
+	proxy remoto
+	proxy de proteção
+	
+exemplo de acesso:
+	onde possui tres usuarios, nivel 1 2 e 3, e eles tem acesso a mesma pasta, porem nao pode ter o mesmo arquivo para todos
+	
+--
+
+Padrões Comportamentais
+
+Padrões de classes
+	definido em tempo de compilação
+	
+Padrões de objeto
+	definido em tempo de execução
+	
+print dos tipos de padrões
+
+Classificação de Metsker -> classificação por intenção
+	Interfaces -> Adapter, Facade, Composite, Brigde
+	Responsabilidade -> Singleton, Observer, Mediator, Proxy, Chain of Reposibility, Flyweight
+	Contrução -> Builder, Factory Method, Abstract Factory, Prototype, Memento
+	Operações -> Template Method, State, Strategy, Command, Interpreter
+	Extensões -> Decorator, Iterator, Visitor
+	
+quando e como usar
+
+--
+
+Chain of Responsability
+
+se o objeto nao consegue tratar a solicitação, ele passa para o proximo
+
+evita a dependencia entre um objeto receptor e um objeto solicitante ou destinatario
+
+middlewares
+
+exemplo
+	um caixa eletronico, onde o usuario quer sacar determinado valor, porem ele tem que passar pelas funções que distribui notas de 100, 50, 20, até chegar no seu valor (exemplo: 270 reias -> 2 de 100 ...)
+	
+next
+
+--
+
+Command
+
+converte solicitações ou operações em objeto
+
+command object
+	request
+	reveiver reference
+	execute
+	
+invoker object
+	execute
+
+receiver object
+
+restaurant example
+
+client -> waiter -> chef
+client	  invoker   receiver
+	concrete command
+	a client make a request to waiter, the waiter pass the request to the chef, when the request is finish, the chef pass to the waiter and the waiter pass to the client
+	
+like a observer?
+
+diferença entre o command e o chain of resposabilities, no padrão command, ele encontra o "metodo" que precisa, ja no outro, ele passa por todos até achar o necessário
+
+--
+
+Interpreter
+
+interpretador
+
+avaliar a gramatica
+
+DateTime.ToString()
+
+meio que seria uma forma de visualizar o valor
+
+exemplo
+	google translator
+	
